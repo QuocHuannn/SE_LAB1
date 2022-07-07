@@ -1,7 +1,7 @@
 // Import packages and set the port
 import bodyParser from "body-parser";
 import express from "express";
-import routes from "./routes/routes.js";
+import routes from "./router.js";
 const port = 3002;
 const app = express();
 

@@ -1,12 +1,12 @@
 const users = [
 	{
 		id: 1,
-		name: "Richard Hendricks",
+		name: "Trương Văn A",
 		email: "richard@piedpiper.com",
 	},
 	{
 		id: 2,
-		name: "Bertram Gilfoyle",
+		name: "Nguyễn A",
 		email: "gilfoyle@piedpiper.com",
 	},
 ];
